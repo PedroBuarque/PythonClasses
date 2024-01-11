@@ -13,7 +13,7 @@ division = 10 / 10 #always returns a float
 print('Division 10 / 10:', division)
 
 whole_division = 10 // 2
-print('Whole Division 10 % 2:', whole_division)
+print('Whole Division 10 // 2:', whole_division)
 
 exponentiation = 2 ** 10
 print('Exponentiation 2 ** 10:', exponentiation)
